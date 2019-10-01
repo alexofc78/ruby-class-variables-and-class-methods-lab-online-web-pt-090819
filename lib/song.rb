@@ -22,8 +22,6 @@ class Song
     @@artist_count = @@artists
   end
   
-  song = Song.new (name, artist, genre)
-
 end
 
 
